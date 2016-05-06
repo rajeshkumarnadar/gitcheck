@@ -1,0 +1,261 @@
+form_id,set_id,order_no,question_en,question_mr,question_keyword,option_keyword,option_en_lang,option_mr_lang,"
+ answer_type",is_question_required,range_min,range_max,range_error_msg_en,range_error_msg_mr,lenght_min,length_max,validation_len_err_en_msg,validation_len_err_mr_msg,validation_condition,validation_err_msg_en,validation_err_msg_mr,display_condition,dependent_type,q_dependent_keyword,calculation,option_mr_lang,option_dependent_keyword
+2,9,1,SYMPTOMS that indicates Discomfort,,symptoms_indicate_discomfort,,,,label,,,,,,,,,,,,,,,,,,
+2,9,2,Nausea and vomiting,,symptoms_nausea_and_vomiting,"symptoms_nausea_and_vomiting_yes
+symptoms_nausea_and_vomiting_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,9,3,Heartburn,,symptoms_heartburn,"symptoms_heartburn_yes
+symptoms_heartburn_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,9,4,Constipation,,symptoms_constipation,"symptoms_constipation_yes
+symptoms_constipation_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,9,5,Increased frequency of urination,,symptoms_increased_frequency_of_urination,"symptoms_increased_frequency_of_urination_yes
+symptoms_increased_frequency_of_urination_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,6,SYMPTOMS that may lead to Complications,,symptoms_leading_to_complications,,,,label,,,,,,,,,,,,,,,,,,
+2,10,7,Bleeding from vagina during pergnancy,,symptoms_complications_bleeding_from_vagina_during_pergnancy,"symptoms_complications_bleeding_from_vagina_during_pergnancy_yes
+symptoms_complications_bleeding_from_vagina_during_pergnancy_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,8,Pain in lower abdomen,,symptoms_complications_pain_in_lower_abdomen,"symptoms_complications_pain_in_lower_abdomen_yes
+symptoms_complications_pain_in_lower_abdomen_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,9,Severe headache and blurring of vision,,symptoms_complications_severe_headache_and_blurring_of_vision,"symptoms_complications_severe_headache_and_blurring_of_vision_yes
+symptoms_complications_severe_headache_and_blurring_of_vision_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,10,Breathlessness at rest/on mild exertion,,symptoms_complications_breathlessness_at_rest_on_mild_exertion,"symptoms_complications_breathlessness_at_rest_on_mild_exertion_yes
+symptoms_complications_breathlessness_at_rest_on_mild_exertion_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,11,Palpitation/ easy fatigability,,symptoms_complications_palpitation_easy_fatigability,"symptoms_complications_palpitation_easy_fatigability_yes
+symptoms_complications_palpitation_easy_fatigability_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,12,Burning sensation during urination,,symptoms_complications_burning_sensation_during_urination,"symptoms_complications_burning_sensation_during_urination_yes
+symptoms_complications_burning_sensation_during_urination_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,13,Passing smaller amounts of urine and burning sensation during micturition,,symptoms_complications_passing_smaller_amounts_of_urine_and_burning_sensation_during_micturition,"symptoms_complications_passing_smaller_amounts_of_urine_and_burning_sensation_during_micturition_yes
+symptoms_complications_passing_smaller_amounts_of_urine_and_burning_sensation_during_micturition_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,14,Urinary track infection,,symptoms_complications_urinary_track_infection,"symptoms_complications_urinary_track_infection_yes
+symptoms_complications_urinary_track_infection_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,15,Fever,,symptoms_complications_fever,"symptoms_complications_fever_yes
+symptoms_complications_fever_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,16,Persistent vomiting,,symptoms_complications_persistent_vomiting,"symptoms_complications_persistent_vomiting_yes
+symptoms_complications_persistent_vomiting_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,10,17,"Generalised swelling of the body, puffiness of the face",,symptoms_complications_generalised_swelling_of_the_body_puffiness_of_the_face,"symptoms_complications_generalised_swelling_of_the_body_puffiness_of_the_face_yes
+symptoms_complications_generalised_swelling_of_the_body_puffiness_of_the_face_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,11,18,SIGNS,,check_signs,,,,label,,,,,,,,,,,,,,,,,,
+2,11,19,Check if the woman has the following signs of jaundice?,"तपासणीत, स्त्री मध्ये कावीळ चे लक्षणे आहेत काय? डोळयाचा रंग, नख, आणि तव्चा तपासा",signs_of_jaundice,,,,label,,,,,,,,,,,,,,,,,,
+2,11,20,Eyes (Sclera is yellowish),डोळे ( श्वेतमंडल )पिवळसर आहे काय,signs_of_jaundice_eyes_yellowish,"signs_of_jaundice_eyes_yellowish_yes
+signs_of_jaundice_eyes_yellowish_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,11,21,Nails are pale or yellowish,नखे फिकट गुलाबी किंवा पिवळसर आहेत काय,signs_of_jaundice_nails_yellowish,"signs_of_jaundice_nails_yellowish_yes
+ signs_of_jaundice_nails_yellowish_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,11,22,Skin pallor is pale or yellowish,त्वचा फिकेपणा (फिकट गुलाबी) किंवा पिवळसर आहे,signs_of_jaundice_skin,"signs_of_jaundice_skin_yes
+ signs_of_jaundice_skin_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,11,23,Swollen face,सुजलेल्या चेहरा आहे काय,signs_of_swollen_face,"signs_of_swollen_face_yes
+Signs_of_swollen_face_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,11,24,Swollen feet,सुजलेले पाय आहे काय,signs_of_swollen_feet,"signs_of_swollen_feet_yes
+Signs_of_swollen_feet_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,12,25,DIAGNOSTIC TESTS / IMMUNIZATION AND MEDICATIONS,निदान चाचण्या,IMMUNIZATION_AN_MEDICATIONS,,,,label,,,,,,,,,,,,,,,,,,
+2,12,26,Weight,वजन,weight_of_women,,,,int,,,,,,,,,,,,,,,,,,
+2,12,27,Height in centimeters,उंची,height_of_women,,,,int,,,,,,,,,,,,,,,,,,
+2,12,28,Haemoglobin (Hb),हिमोग्लोबीन,hb_level,"
+",,,int,,,,,,,,,,,,,,,,,,
+2,12,29,Blood Pressure (BP) Systolic,रक्तदाब ( बीपी),bp_reading_systolic,,,,int,,,,,,,,,,,,,,,,,,
+2,12,30,"
+ Blood Pressure (BP) Diastolic",रक्तदाब ( बीपी),bp_reading_diastolic,,"
+",,int,,,,,,,,,,,,,,,,,,
+2,12,31,Woman's Blood Pressure,,woman_blood_pressure,"woman_blood_pressure_normal
+ woman_blood_pressure_high 
+ woman_blood_pressure_low","Normal
+ High BP
+ Low BP",,radio,,,,,,,,,,,,,,,,,,
+2,12,32,Urine Test for Albumin,अल्ब्युमिन साठी मूत्र चाचणी,urine_test_albumin,"urine_test_albumin_0
+urine_test_albumin_plus_1
+ urine_test_albumin_plus_2","0
+ +1
+ +2",,radio,,,,,,,,,,,,,,,,,,
+2,12,33,Urine Test for Sugar:,साखर साठी मूत्र चाचणी,urine_sugar_test,"urine_sugar_test_0
+ urine_sugar_test_plus_1
+ urine_sugar_test_plus_2
+ urine_sugar_test_plus_3
+ urine_sugar_test_plus_4","0
+ +1
+ +2
+ +3
+ +4",,radio,,,,,,,,,,,,,,,,,,
+2,12,34,Woman's Sugar level,,woman_sugar_level,"woman's_ sugar_level_normal
+ woman's_ sugar_level_high 
+ woman's_ sugar_level_low","Normal
+ High 
+ Low",,radio,,,,,,,,,,,,,,,,,,
+2,12,35,TT dose given during her previous pregnancies before two to three years,,tt_dose_given_previous_pregnancy,"tt_dose_given_previous_pregnancy_yes
+ tt_dose_given_previous_pregnancy_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,12,36,TT Booster,,tt_booster_given,"tt_booster_given_yes
+ tt_booster_given_no
+ tt_booster_given_not_done","Yes 
+ No
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,12,37,TT 1,,tt_1_dose_given,"tt_1_given_yes
+ tt_1_given_no
+ tt_1_given_not_done","Yes 
+ No
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,12,38,TT 2,,tt_2_dose_given,"tt_2_given_yes
+ tt_2_given_no
+ tt_2_given_not_done","Yes 
+ No
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,13,39,"Conduct a physical examination–measure the weight, blood pressure and respiratory rate and check for pallor and oedema",,conduct_physical_examination,,,,label,,,,,,,,,,,,,,,,,,
+2,13,40,General conditions checked,,checked_general_condition,"checked_general_condition_yes
+ checked_general_condition_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,13,41,Respiratory Rate,,checked_respiratory_rate,"checked_respiratory_rate_yes
+ checked_respiratory_rate_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,13,42,Breasts examination,,breast_examination,"breast_examination_yes
+ breast_examination_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,13,43,Pulse rate,,checked_pulse_rate,"checked_pulse_rate_yes
+ checked_pulse_rate_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,13,44,Oedema,,presence_of_oedema,"presence_of_oedema_yes
+ presence_of_oedema_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,14,45,REFERRED TO PHC,,Referred_To_PHC,,,,label,,,,,,,,,,,,,,,,,,
+2,14,46,"Blood Group of woman
+ (Group)","रक्त गट
+ (ग्रुप)",blood_group_of_woman,"blood_group_of_woman_A
+blood_group_of_woman_B
+blood_group_of_woman_AB
+blood_group_of_woman_O
+blood_group_of_woman_BOMBAY_BLOOD_GROUP
+blood_group_of_woman_not_done
+","A
+ B
+ AB
+ O
+ Bombay Blood Group
+ Not Done",,radio,,,,,,,,,,,,,,,,,,
+2,14,47,"Blood Group of woman
+ (RH Factor)",आर.येच. घटक,rh_factor_of_woman,"rh_factor_of_woman_positive
+rh_factor_of_woman_negative
+rh_factor_of_woman_not_done","Positive 
+ Negative 
+ Not Done",,radio,,,,,,,,,,,,,,,,,,
+2,14,48,"Blood Group of Husband
+ (RH Factor)",कृपया गर्भवाती महिलाच्या पतीच्या आर.येच. घटकाचे निदान करावे,rh_factor_of_woman_husband,"rh_factor_of_woman_husband_positive
+rh_factor_of_woman_husband_negative
+rh_factor_of_woman_husband_not_done","Positive 
+ Negative 
+ Not Done",,radio,,,,,,,,,,,,,,,,,,
+2,14,49,HIV/ AIDS Test,एचआयव्ही चाचणी,hiv_test,"hiv_test_positive
+hiv_test_negative
+hiv_test_not_done","Positive 
+ Negative
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,14,50,HBsAg Test,HBsAg ची चाचणी,hbsag_test,"hbsag_test_positive
+hbsag_test_negative
+hbsag_test_not_done","Positive 
+ Negative
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,14,51,Rapid Test for Malaria?,महिलेनी मलेरिया रॅपिडची निदान केले आहे का?,rapid_test_malaria,"rapid_test_malaria_positive
+rapid_test_malaria_negative
+rapid_test_malaria_not_done","Positive 
+ Negative
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,14,52,Sickle cell test,तुम्ही sickle ची चाचणी केले आहे,sickel_cell_test,"sickel_cell_test_positive
+sickel_cell_test_negative
+sickel_cell_test_not_done","Positive 
+ Negative
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,14,53,RTI/STI Test,प्रजनन प्रसारित संक्रमण /लैंगिक प्रसारित संक्रमण आहे काय,rti_sti_diagnosis,"rti_sti_diagnosis_positive
+rti_sti_diagnosis_negative
+rti_sti_diagnosis_not_done","Positive 
+ Negative
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,14,54,VDRL Test,तुम्ही व्ही.डी.आर.यल. चाचणी केले काय?,vdrl_test,"vdrl_test_positive
+vdrl_test_negative
+vdrl_test_not_done","Positive 
+ Negative
+ Not done",,radio,,,,,,,,,,,,,,,,,,
+2,15,55,Refer immediately to FRU/PHC if the woman has the following complaints,,Refer_to_FRU_PHC,,,,label,,,,,,,,,,,,,,,,,,
+2,15,56,"High fever with or without abdominal pain, too weak to get out of bed",,fever_with_or_without_abdominal_pain,"fever_with_or_without_abdominal_pain_yes
+ fever_with_or_without_abdominal_pain_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,57,Fast or difficult breathing,,fast_or_difficult_breathing,"fast_or_difficult_breathing_yes
+ fast_or_difficult_breathing_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,58,"Excessive vomiting, unable to take anything orally",,excessive_vomiting_and_unable_to_take_anything_orally,"excessive_vomiting_and_unable_to_take_anything_orally_yes
+ excessive_vomiting_and_unable_to_take_anything_orally_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,59,Breathlessness at rest,,breathlessness_at_rest,"breathlessness_at_rest_yes
+ breathlessness_at_rest_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,60,Reduced urinary output with high BP,,reduced_urinary_output_with_high_BP,"reduced_urinary_output_with_high_bp_yes
+ reduced_urinary_output_with_high_bp_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,61,High BP (>140/90 mmHg) with or without proteins in the urine,,High_BP _greater_than_140_90_mmHg_with_or_without_proteins_in_the_urine,"high_ bp_greater_than_140_90mmHg_with_or_without_proteins_in_the_urine_yes
+high_ bp_greater_than_140_90mmHg_with_or_without_proteins_in_the_urine_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,62,Haemoglobin <7 g%,,Haemoglobin_less_than_7g,"haemoglobin_less_than_7g_yes
+Haemoglobin_less_than_7g_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,63,Convulsions or loss of consciousness,,Convulsions_or_loss_of_consciousness,"convulsions_or_loss_of_consciousness_yes
+ convulsions_or_loss_of_consciousness_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,64,Continuous severe abdominal pain,,Continuous_severe_abdominal_pain,"continuous_severe_abdominal_pain_yes
+ continuous_severe_abdominal_pain_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,15,65,"High BP (>140/90 mmHg) with proteins in the urine, and severe headache with blurred vision or epigastric pain",,High_BP_greater_than_140_90_mmHg_with_proteins_in_the_urine_ and_severe_headache_with_blurred_vision_or_epigastric_pain,"high_bp_greater_than_140_90mmHg_with_or_without_proteins_in_the_urine_and_severe_headache_with_blurred_vision_or_epigastric_pain_yes
+high_bp_greater_than_140_90mmHg_with_or_without_proteins_in_the_urine_and_severe_headache_with_blurred_vision_or_epigastric_pain_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,66,COUNSELLING please provided counselling to women on the following aspects,,women_counselling,,,,label,,,,,,,,,,,,,,,,,,
+2,16,67,Help the woman prepare for birth and to decide where to deliver the baby,प्रसूती कुठे करायची तुम्ही ठरवले आहे?,counsel_prepare_birth_plan_where_to_deliver_the_baby ,"counsel_prepare_birth_plan_where_to_deliver_the_baby_yes
+counsel_prepare_birth_plan_where_to_deliver_the_baby_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,68,Advantages of institutional deliveries and risks involved in home deliveries,,counsel_advantages_of_institutional_deliveries_ and_risks_involved_in_home_deliveries,"counsel_advantages_of_institutional_deliveries_and_risks_involved_in_home_deliveries_yes
+counsel_advantages_of_institutional_deliveries_and_risks_involved_in_home_deliveries_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,69,Advise the woman on where to go if an emergency,,counsel_woman_where_to_go_if_an_emergency,"counsel_woman_where_to_go_if_an_emergency_yes
+counsel_woman_where_to_go_if_an_emergency_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,70,"How to arrange for transportation, money and blood donors in case of an emergency.",,counsel_ arrange_ for_ transportation_money_and_blood donors_ in_case_of_an_emergency,"counsel_arrange_for_transportation_money_and_blood donors_in_case_of_an_emergency_yes
+counsel_arrange_for_transportation_money_and_blood donors_in_case_of_an_emergency_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,71,Educate the woman and her family members on signs of labour and danger signs of obstetric complications,,counsel_educate_the_woman_and_her_family_members_on_signs_of_labour_and_danger_signs_of_obstetric_complications,"counsel_educate_the_woman_and_her_family_members_on_signs_of_labour_and_danger_signs_of_obstetric_complications_yes
+counsel_educate_the_woman_and_her_family_members_on_signs_of_labour_and_danger_signs_of_obstetric_complications_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,72,Emphasise the importance of seeking ANC and PNC,,counsel_emphasise_the_importance_of_seeking_ANC_and_PNC,"counsel_emphasise_the_importance_of_seeking_anc_and_pnc_yes
+counsel_emphasise_the_importance_of_seeking_anc_and_pnc_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,73,Advise on diet (nutrition) and rest,,counsel_advise_on_diet_nutrition_and_rest,"counsel_advise_on_diet_nutrition_and_rest_yes
+counsel_advise_on_diet_nutrition_and_rest_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,74,"Inform the woman about breastfeeding, including exclusive breastfeeding",,counsel_inform_the_woman_about_breastfeeding_including_exclusive_breastfeeding,"counsel_inform_the_woman_about_breastfeeding_including_exclusive_breastfeeding_yes
+Counsel_inform_the_woman_about_breastfeeding_including_exclusive_breastfeeding_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,75,Provide information on sex during pregnancy,,counsel_provide_information_on_sex_during_pregnancy,"counsel_provide_information_on_sex_during_pregnancy_yes
+counsel_provide_information_on_sex_during_pregnancy_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,76,Warn against domestic violence (explain the consequences of violence on a pregnant woman and her foetus),,counsel_warn_against_domestic_violence,"counsel_warn_against_domestic_violence_yes
+Counsel_warn_against_domestic_violence_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,77,Promote family planning,,counsel_promote_family_planning,"counsel_promote_family_planning_yes
+counsel_promote_family_planning_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,78,Inform the woman about the Janani Suraksha Yojana,,inform_the_woman_about_the_janani_suraksha_yojana,"inform_the_woman_about_the_janani_suraksha_yojana_yes
+inform_the_woman_about_the_janani_suraksha_yojana_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
+2,16,79,Inform the woman about Mother and Child Protection Card,,inform_the_woman_about_mother_and_child_protection_card,"inform_the_woman_about_mother_and_child_protection _card_MCP_yes
+Inform_the_woman_about_mother_and_child_protection _card_MCP_no","Yes
+ No",,radio,,,,,,,,,,,,,,,,,,
